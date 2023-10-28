@@ -1,0 +1,23 @@
+html {
+    color: white;
+}
+
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+    flex: 1fr  1fr 1fr;
+    gap: 70px;
+    
+
+}
+.toc {
+    color: white;
+    border: solid;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+.Subheadings {
+    text-align: center;
+    font-weight: bold;
+}
